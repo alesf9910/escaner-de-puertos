@@ -1,0 +1,14 @@
+D:\Trabajo\Youtube\Proyectos C#\ps\build\ps.exe
+D:\Trabajo\Youtube\Proyectos C#\ps\build\ps.deps.json
+D:\Trabajo\Youtube\Proyectos C#\ps\build\ps.runtimeconfig.json
+D:\Trabajo\Youtube\Proyectos C#\ps\build\ps.dll
+D:\Trabajo\Youtube\Proyectos C#\ps\build\ps.pdb
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.GeneratedMSBuildEditorConfig.editorconfig
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.AssemblyInfoInputs.cache
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.AssemblyInfo.cs
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.csproj.CoreCompileInputs.cache
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.dll
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\refint\ps.dll
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.pdb
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ps.genruntimeconfig.cache
+D:\Trabajo\Youtube\Proyectos C#\ps\obj\Debug\net8.0\ref\ps.dll
